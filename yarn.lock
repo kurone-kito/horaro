@@ -821,9 +821,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@kurone-kito/eslint-config-base@npm:^0.7.0":
-  version: 0.7.0
-  resolution: "@kurone-kito/eslint-config-base@npm:0.7.0"
+"@kurone-kito/eslint-config-base@npm:^0.7.4":
+  version: 0.7.4
+  resolution: "@kurone-kito/eslint-config-base@npm:0.7.4"
   peerDependencies:
     "@cspell/eslint-plugin": ">=6.x.x"
     "@typescript-eslint/eslint-plugin": ">=6.0.x"
@@ -877,7 +877,7 @@ __metadata:
       optional: true
     eslint-plugin-yaml:
       optional: true
-  checksum: f0cd1be1fde3161d47619aef667e913a7e3b4207a6a374ba5edb00ec87e962133a5774db6557f3076f02fd4633bc01874147f75c9f174db44c3a13b3f52b2676
+  checksum: cbc72f7eae35e55eb93c9c94231558ae18a5102b7874ba392c1e06155f4fbd519729bbc6e312db4ec354a1d546b020a20b1639cda810084e0d835c772fee229d
   languageName: node
   linkType: hard
 
@@ -916,7 +916,7 @@ __metadata:
     "@commitlint/config-conventional": ^17.6.7
     "@cspell/cspell-types": ^6.31.1
     "@cspell/eslint-plugin": ^6.31.2
-    "@kurone-kito/eslint-config-base": ^0.7.0
+    "@kurone-kito/eslint-config-base": ^0.7.4
     "@kurone-kito/prettier-config": ^0.7.0
     "@kurone-kito/typescript-config": ^0.7.0
     "@typescript-eslint/eslint-plugin": ^6.1.0

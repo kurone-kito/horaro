@@ -33,7 +33,7 @@
     "@commitlint/config-conventional": "^17.6.7",
     "@cspell/cspell-types": "^6.31.1",
     "@cspell/eslint-plugin": "^6.31.2",
-    "@kurone-kito/eslint-config-base": "^0.7.0",
+    "@kurone-kito/eslint-config-base": "^0.7.4",
     "@kurone-kito/prettier-config": "^0.7.0",
     "@kurone-kito/typescript-config": "^0.7.0",
     "@typescript-eslint/eslint-plugin": "^6.1.0",
