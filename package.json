@@ -37,7 +37,7 @@
     "@kurone-kito/prettier-config": "^0.7.0",
     "@kurone-kito/typescript-config": "^0.7.0",
     "@typescript-eslint/eslint-plugin": "^6.1.0",
-    "@typescript-eslint/parser": "^6.1.0",
+    "@typescript-eslint/parser": "^6.7.3",
     "@yarnpkg/sdks": "^3.0.0-rc.48",
     "concurrently": "^8.2.0",
     "cspell": "^6.31.2",
