@@ -881,15 +881,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@kurone-kito/prettier-config@npm:^0.7.0":
-  version: 0.7.0
-  resolution: "@kurone-kito/prettier-config@npm:0.7.0"
+"@kurone-kito/prettier-config@npm:^0.7.5":
+  version: 0.7.5
+  resolution: "@kurone-kito/prettier-config@npm:0.7.5"
   peerDependencies:
     prettier: ">=2.3.x"
   peerDependenciesMeta:
     prettier:
       optional: true
-  checksum: 49984b31d72376c0a66878de5a68153d203f1a3fab470aea5d800eaad292bad714dfdec1deca223c49c548d2110acb14fee11ff0ef2893fb1691efa5d74407e6
+  checksum: 773f1edecd963438abe88540632aac8e4fc9f625fb81d3ecf7a115ab7ab4ed5464773a28d30a12f66070819e54f25d1c06c5fa1fb86e490956bf39f93dbc8c0d
   languageName: node
   linkType: hard
 
@@ -917,7 +917,7 @@ __metadata:
     "@cspell/cspell-types": ^6.31.1
     "@cspell/eslint-plugin": ^6.31.2
     "@kurone-kito/eslint-config-base": ^0.7.0
-    "@kurone-kito/prettier-config": ^0.7.0
+    "@kurone-kito/prettier-config": ^0.7.5
     "@kurone-kito/typescript-config": ^0.7.0
     "@typescript-eslint/eslint-plugin": ^6.1.0
     "@typescript-eslint/parser": ^6.1.0
